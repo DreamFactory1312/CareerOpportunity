@@ -1,0 +1,90 @@
+.new{
+	margin-left:30px;
+	margin-top:10px;
+	height: 32px;	
+}
+
+.navbar-custom{
+    margin-top:-80px;
+}
+#latest_opportunity{
+    background-color:#E67E22;
+	margin-top:-40px;
+	<!-- margin-left:25px; -->
+}
+#latest_jobs{
+    background-color:#3498DB;
+	margin-top:-40px;
+	<!-- margin-left:25px; -->
+}
+#latest_news{
+    background-color:#9B59B6;
+	margin-top:-40px;
+}
+
+#latest_jobs_header{
+    background-color:#3498DB;
+	margin-left:30px;
+	margin-top:-50px;
+	height: 32px;
+	margin-right:-40px;
+}
+#latest_Opprtunity_header{
+    background-color:#E67E22;
+	margin-left:30px;
+	margin-top:-50px;
+	height: 32px;
+	margin-right:-40px;
+}
+#latest_news_header{
+    background-color:#9B59B6;
+	margin-left:30px;
+	margin-top:-50px;
+	height: 32px;
+	margin-right:-40px;
+}
+#like_us_on_facebook_header{
+    background-color:#019934;
+	margin-left:30px;
+	height: 38px;
+	margin-right:-40px;
+}
+
+#latest_jobs_table{
+    margin-left:30px;
+}
+
+.dropdown-menu{
+    background-color: #E67E22;  
+	<!-- dropdown-menu color -->
+	
+	font-size:30px;
+}
+
+.dropdown-menu li:hover {
+    background-color: #F2EDE4;
+}
+
+.dropdown-menu li > a:hover {
+    text-decoration: none;
+}
+<!-- Three ads after latest opportunity -->
+#ad_left_Site{
+    margin-left:50px;
+}
+
+<!-- dropdown menu goes to left site -->
+#navcollapse_left{
+    margin-left:-10px;
+	margin-left:-30px;
+}
+.span8{
+    margin-left:-25px;
+}
+
+.span8 table{
+    margin-left:-25px;
+}
+#all_these_goes_to_left_site{
+    margin-left:-25px;
+}
